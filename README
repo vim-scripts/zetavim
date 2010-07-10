@@ -1,0 +1,28 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3145
+
+Short Description :
+===============
+
+A collection of plug-in that is useful with Zwiki tool and Zeta project collaboration suite. The package contains three parts, namely,
+
+* detecting text files written in ZWiki-zeta markup
+*  syntax highlighting markup text
+*  vim & python plugin to interface with zeta http server to edit wiki, tickets and reviews with vim
+
+Quick Links :
+===========
+
+To know more on how to interface with Zeta project collaboration site, check out the link,
+http://dev.discoverzeta.com/help/VimIntegration
+
+Use structured-text while interfacing with Zeta server via Vim.
+http://dev.discoverzeta.com/help/StructuredText
+
+Download ZWiki-zeta from python package index,
+http://pypi.python.org/pypi/zwiki-zeta/0.9beta
+
+For documentation and obtaining Zeta application,
+http://discoverzeta.com
+
+Participate in our mailing list with your queries and comments,
+http://groups.google.com/group/zeta-discuss
